@@ -1,0 +1,35 @@
+#my-header {
+    background-color: rgb(255,165, 0);
+    color: hsl(147, 50%, 47%);
+    padding: 40px;
+    text-align: center;
+  }
+
+  #myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+  }
+
+  #jerboabackground {
+    background-color: rgb(204, 46, 41);
+  }
+
+  .jerboaheaders {
+    text-align: center;
+    background-color: aquamarine;
+    size: 40px;
+  }
+
+  .jerboaparagrahps {
+    text-align: center;
+    background-color: bisque;
+    border-color: hsl(240, 100%, 27%);
+  }
